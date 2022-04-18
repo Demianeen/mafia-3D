@@ -1,2 +1,2 @@
 # mafia-3D
-Fun project that I did with my friends
+This is a fun project that I did with my friends using Unity
