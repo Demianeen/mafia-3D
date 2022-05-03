@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Main menu.unity
     guid: 0c519ad8f23f9c441bd270ff3177d685
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Voting menu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
